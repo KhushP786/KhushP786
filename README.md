@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=KhushP786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=KhushP786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="KhushP786" /></a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushP786&theme=highcontrast" alt="KhushP786" /></p>
+
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=KhushP786&count_private=true&show_icons=true&theme=dark&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KhushP786&theme=dark&hide=html,css&count_private=true&show_icons=true&layout=compact)
