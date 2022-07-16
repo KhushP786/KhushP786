@@ -1,5 +1,6 @@
 ### Hi there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KhushP786&label=Profile%20views&color=C1232C&style=flat" alt="KhushP786"/> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KhushP786" alt="KhushP786" /></a> </p>
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=KhushP786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub"><img src="https://github-profile-trophy.vercel.app/?username=KhushP786&title=Joined2020&title=Commits&title=Repository&margin-w=15&theme=darkhub" alt="KhushP786" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KhushP786&theme=highcontrast" alt="KhushP786" /></p>
