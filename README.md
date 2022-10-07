@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">👋 Hi, I’m Khush Vasudeo Patil</h1>
 <h2 align="center">A Passionate IoT,Embedded Developer and Cybersecurity Enthusiast from India</h2>
 
